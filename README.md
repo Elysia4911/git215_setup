@@ -1,2 +1,2 @@
 # git215_setup
-## Author: Anthony Kim
+## Author: Anthony
